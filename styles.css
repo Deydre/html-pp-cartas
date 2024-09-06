@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    width: 700px;
+    margin: 0 auto;
+    font-family: serif;
+    color: black;
+    background-color: white;
+  }
+  
+  #sender {
+    text-align: right;
+  }
+  
+  .indent {
+    padding-left: 20px;
+  }
+  
+  #space{
+    margin-bottom: 100px;
+  }
